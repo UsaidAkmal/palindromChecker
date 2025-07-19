@@ -6,7 +6,7 @@ print(f'''
 ''')
 
 def palchecker(word):
-    word = kata.lower()
+    word = word.lower()
     return word == word[::-1] 
 
 userWordInput = input("Masukan kata: ")
