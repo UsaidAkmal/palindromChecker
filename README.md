@@ -34,5 +34,5 @@ kodok
 taat
 malam
 
-121, 12321, atau 2002.
+121, 12321, atau 2002
 </pre>
